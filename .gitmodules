@@ -1,0 +1,3 @@
+[submodule "projects/01-sudoku"]
+	path = projects/01-sudoku
+	url = git@github.com:sudowork/AIND-Sudoku.git
